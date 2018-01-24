@@ -1,0 +1,48 @@
+
+
+class state:
+	bool scan
+	int scanTimer
+	
+	
+updateTarget(newRobot):
+	if newRobot is closer than minDistanceThreshold:
+		target = newRobot
+	sort list by priotity
+	
+Robot target = 0
+Robot[] robotList
+Point destination
+
+Run:
+	
+	loop:
+		if target == 0:
+			state.scan = true
+		if scan == true:
+			rotate scanner
+		if state.scanTimer ran out:
+			state.scan = true
+		if target:
+			if !state.scan:
+				rotate scanner to target
+			update scanTimer
+			
+		//driving
+		
+		//aiming
+			
+
+onScannedRobot(robot):
+	if robot in robotRist:
+		update robot in list
+	else:
+		add robot to list
+	
+	update target (robot)
+	
+onHitByBullet(bullet):
+	destination = Perpendicular(bullet.heading) * 5 //closest angle to facing; avoid making large turns
+	
+
+

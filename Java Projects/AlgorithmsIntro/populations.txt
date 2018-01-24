@@ -1,0 +1,999 @@
+CityCountry,Population,Date
+"Kaiyuan (Liaoning), China",529736,11/1/2000
+"MINSK, Belarus",1789098,7/1/2006
+"Kalyan, India",1193266,3/1/2001
+"Donggang, China",640340,11/1/2000
+"Sikasso, Mali",1782157,4/1/1998
+"PORT-AU-PRINCE, Haiti",990558,7/1/1999
+"Santo André, Brazil",673234,7/1/2005
+"Jeonju (Chonchu), South Korea",616468,11/1/2000
+"Yingcheng, China",650485,11/1/2000
+"Barnaul, Russia",651530,7/1/2006
+"Beiliu, China",1049035,11/1/2000
+"Yingkou, China",698059,11/1/2000
+"Hailun, China",720008,11/1/2000
+"OTTAWA, Canada",1158314,7/1/2006
+"Feira de Santana, Brazil",535820,7/1/2005
+"Jiaonan, China",827771,11/1/2000
+"Dashiqiao, China",714670,11/1/2000
+"Voronezh, Russia",923678,7/1/2006
+"Zengcheng, China",899644,11/1/2000
+"Nanchang, China",1844253,11/1/2000
+"TASHKENT, Uzbekistan",2137218,7/1/2001
+"Xi'ning, China",854466,11/1/2000
+"Jixi, China",910782,11/1/2000
+"Lviv, Ukraine",752285,1/1/2005
+"LONDON, United Kingdom",8278251,4/29/2001
+"Kaduna, Nigeria",993642,11/26/1991
+"Ribeirao Pr�to, Brazil",559650,7/1/2005
+"Yokohama, Japan",3579628,10/1/2005
+"Kazan, Russia",1114325,7/1/2006
+"SANA'A, Yemen",954448,12/16/1994
+"Hyderabad, India",5533640,3/1/2001
+"Changsha, China",2122873,11/1/2000
+"Nakhon Ratchasima, Thailand",530993,7/1/2006
+"Chennai (Madras), India",6424624,3/1/2001
+"Haimen, China",942952,11/1/2000
+"Indore, India",1639044,3/1/2001
+"Lingbao, China",722890,11/1/2000
+"Baltimore (MD), United States",635815,7/1/2005
+"Nonthaburi, Thailand",714853,7/1/2006
+"Chongjin, North Korea",582480,12/31/1993
+"Kryviy Rig, Ukraine",698599,1/1/2005
+"BELGRADE, Serbia",1602861,6/30/2006
+"Changzhou, China",1081845,11/1/2000
+"Ludhiana, India",1395053,3/1/2001
+"D�sseldorf, Germany",568855,7/1/1999
+"Shenyang, China",5303053,11/1/2000
+"Linyi, China",1938510,11/1/2000
+"M�rida, Mexico",889435,7/1/2006
+"Wuxue, China",719426,11/1/2000
+"Yichun (Heilongjiang), China",814016,11/1/2000
+"Homs, Syria",1365000,7/1/2000
+"Laiwu, China",1233525,11/1/2000
+"Linzhou, China",982254,11/1/2000
+"MONTEVIDEO, Uruguay",1345010,6/30/2006
+"Dongying, China",788844,11/1/2000
+"Zunhua, China",683662,11/1/2000
+"Bonn, Germany",301048,7/1/1999
+"Xuanwei, China",1292825,11/1/2000
+"Huhehaote, China",1406955,11/1/2000
+"SEOUL, South Korea",10020123,7/1/2006
+"SOFIA, Bulgaria",1151220,7/1/2006
+"Langfang, China",715388,11/1/2000
+"BANGKOK, Thailand",6858000,7/1/2006
+"Kayes, Mali",1374316,4/1/1998
+"SARAJEVO, Bosnia and Herzegovina",529021,3/31/1991
+"Sendai, Japan",1025098,10/1/2005
+"Acheng, China",638894,11/1/2000
+"Heze, China",1280031,11/1/2000
+"Guangzhou, China",8524826,11/1/2000
+"Marseille, France",796525,3/8/1999
+"El Alto, Bolivia",827239,7/1/2006
+"Kaiping, China",668692,11/1/2000
+"Shuangcheng, China",749182,11/1/2000
+"Osaka, Japan",2628811,10/1/2005
+"Padang, Indonesia",770451,7/1/2003
+"PARIS, France",2125017,3/8/1999
+"Zhuzhou, China",879996,11/1/2000
+"Adelaide, Australia",1129145,6/30/2005
+"Caloocan, Philippines",1177604,10/1/2000
+"St. Louis (MO), United States",344362,7/1/2005
+"Amravati, India",549370,3/1/2001
+"SKOPLJE, Macedonia",522187,7/1/2006
+"Zhangjiakou, China",903348,11/1/2000
+"Hengyang, China",879051,11/1/2000
+"Sagamihara, Japan",628698,10/1/2005
+"Jiaozhou, China",783478,11/1/2000
+"Shuozhou, China",563896,11/1/2000
+"CONAKRY, Guinea",1091500,1/12/1996
+"Nampho, North Korea",731448,12/31/1993
+"Jieshou, China",640878,11/1/2000
+"Nagoya, Japan",2215062,10/1/2005
+"Deyang, China",628876,11/1/2000
+"Chiba, Japan",924319,10/1/2005
+"Xingning, China",871507,11/1/2000
+"Zhuji, China",1070675,11/1/2000
+"Bhopal, India",1454830,3/1/2001
+"Anshun, China",767307,11/1/2000
+"Daegu (Taegu), South Korea",2484022,7/1/2006
+"Ziyang, China",1016034,11/1/2000
+"Zhaoyuan, China",593705,11/1/2000
+"Naples (Napoli), Italy",979690,7/1/2006
+"QUITO, Ecuador",1482447,7/1/2003
+"Cuiab�, Brazil",542861,7/1/2005
+"Ciudad Guayana, Venezuela",641998,7/1/1998
+"Jinzhong, China",534357,11/1/2000
+"Ho Chi Minh City (Saigon), Viet Nam",3015743,7/1/1992
+"Fushun, China",1434447,11/1/2000
+"Soweto, South Africa",904165,10/10/1996
+"Columbus (OH), United States",730657,7/1/2005
+"Shangyu, China",722523,11/1/2000
+"Yangjiang, China",538069,11/1/2000
+"Jingmen, China",583373,11/1/2000
+"HONG KONG, China - Hong Kong",6857100,7/1/2006
+"Stuttgart, Germany",582443,7/1/1999
+"LA PAZ, Bolivia",835167,7/1/2006
+"BRUSSELS, Belgium",1018804,1/1/2006
+"Mashhad, Iran",2070604,7/1/2003
+"Wujiang, China",857104,11/1/2000
+"San Miguel de Tucum�n, Argentina",622324,10/15/1991
+"Cartagena, Colombia",902311,7/1/2006
+"ABU DHABI, United Arab Emirates",527000,7/1/2002
+"Perm, Russia",991748,7/1/2006
+"Chengdu, China",4333541,11/1/2000
+"VIENNA, Austria",1651437,1/1/2006
+"San Diego (CA), United States",1255540,7/1/2005
+"Gaocheng, China",758269,11/1/2000
+"Suining, China",1355388,11/1/2000
+"HAVANA, Cuba",2174790,7/1/2006
+"Yulin (Guangxi), China",918229,11/1/2000
+"Jacksonville (FL), United States",782623,7/1/2005
+"Yicheng, China",522835,11/1/2000
+"Changchun, China",3225557,11/1/2000
+"Deir El-Zor, Syria",803000,7/1/2000
+"Surat, India",2811466,3/1/2001
+"Xiantao, China",1474078,11/1/2000
+"Xiangxiang, China",807718,11/1/2000
+"Xintai, China",1344395,11/1/2000
+"Campo Grande, Brazil",765247,7/1/2005
+"Rawalpindi, Pakistan",1409768,3/2/1998
+"Zhuozhou, China",546754,11/1/2000
+"Handan, China",1329734,11/1/2000
+"YAOUNDE, Cameroon",1293000,7/1/1998
+"Kolkata (Calcutta), India",13216546,3/1/2001
+"At-Ta'if, Saudi Arabia",521273,9/15/2004
+"Nanyang, China",1584715,11/1/2000
+"Pengzhou, China",770749,11/1/2000
+"Zhuanghe, China",835062,11/1/2000
+"KAMPALA, Uganda",1208544,9/12/2002
+"Zahedan, Iran",534771,7/1/2003
+"BEIJING (PEKING), China",11509595,11/1/2000
+"Alexandria, Egypt",3339076,11/19/1996
+"Funabashi, Japan",569835,10/1/2005
+"Haikou, China",830192,11/1/2000
+"Xiaoshan, China",1233348,11/1/2000
+"MAPUTO, Mozambique",1391499,8/1/1997
+"Santa Cruz, Bolivia",1397692,7/1/2006
+"Yangquan, China",655317,11/1/2000
+"VIENTIANE, Laos",528100,3/1/1995
+"Huaiyin, China",555052,11/1/2000
+"Wuchuan, China",822482,11/1/2000
+"Portland (OR), United States",533427,7/1/2005
+"Glasgow, United Kingdom",577869,4/29/2001
+"Shaoxing, China",633118,11/1/2000
+"Pikine-Guediawaye, Senegal",1096830,7/1/1999
+"Tabriz, Iran",1365476,7/1/2003
+"Al-Hasakeh, Syria",1295000,7/1/2000
+"Songyuan, China",538469,11/1/2000
+"Izhevsk, Russia",617558,7/1/2006
+"Zaozhuang, China",1996798,11/1/2000
+"Ruian, China",1207788,11/1/2000
+"Boston (MA), United States",559034,7/1/2005
+"Ad-Dammam, Saudi Arabia",744321,9/15/2004
+"Johannesburg, South Africa",752349,10/10/1996
+"Nashville-Davidson (TN), United States",549110,7/1/2005
+"Nankang, China",694987,11/1/2000
+"Mumbai (Bombay), India",16368084,3/1/2001
+"Pizhou, China",1539922,11/1/2000
+"ANTANANARIVO, Madagascar",1015140,7/1/2005
+"Jiangyou, China",849761,11/1/2000
+"Guiyang, China",2985105,11/1/2000
+"Gaobeidian, China",538582,11/1/2000
+"Kitakyushu, Japan",993525,10/1/2005
+"Xingyang, China",619840,11/1/2000
+"Neijiang, China",1391931,11/1/2000
+"Luoding, China",866190,11/1/2000
+"Bazhong, China",1185862,11/1/2000
+"MADRID, Spain",3128600,1/1/2006
+"Gongyi, China",777202,11/1/2000
+"Visakhapatnam, India",1329472,3/1/2001
+"Dortmund, Germany",590213,7/1/1999
+"Wenzhou, China",1915548,11/1/2000
+"Krasnoyarsk, Russia",924768,7/1/2006
+"Cixi, China",1214537,11/1/2000
+"Sevilla, Spain",704414,1/1/2006
+"Contagem, Brazil",603376,7/1/2005
+"Leqing, China",1162765,11/1/2000
+"Rizhao, China",1148190,11/1/2000
+"Valencia, Venezuela",1263888,7/1/1998
+"Jieyang, China",633570,11/1/2000
+"Taiyuan, China",2558382,11/1/2000
+"Faisalabad (Lyallpur), Pakistan",2008861,3/2/1998
+"Urumqi, China",1753298,11/1/2000
+"Pingdu, China",1321975,11/1/2000
+"Laizhou, China",889361,11/1/2000
+"Songzi, China",859941,11/1/2000
+"Abidjan, C�te d'Ivoire",1929079,3/1/1988
+"Hamburg, Germany",1704735,7/1/1999
+"BUDAPEST, Hungary",1697117,7/1/2006
+"Malm�, Sweden",609356,7/1/2006
+"Saratov, Russia",845758,7/1/2006
+"PRETORIA, South Africa",692348,10/10/1996
+"Hegang, China",694640,11/1/2000
+"Hamhung, North Korea",709730,31/12/1993
+"Tianmen, China",1613739,11/1/2000
+"Qujing, China",648956,11/1/2000
+"Qinhuangdao, China",817487,11/1/2000
+"Bandung, Indonesia",2231139,7/1/2003
+"Huainan, China",1357228,11/1/2000
+"Chifeng, China",1153723,11/1/2000
+"Odessa, Ukraine",989468,1/1/2005
+"Bogor, Indonesia",816911,7/1/2003
+"Xiamen, China",2053070,11/1/2000
+"Varanasi, India",1211749,3/1/2001
+"Orenburg, Russia",546904,7/1/2006
+"Ji'nan, China",2999934,11/1/2000
+"Kermanshah, Iran",816428,7/1/2003
+"Osasco, Brazil",714950,7/1/2005
+"Jiamusi, China",859944,11/1/2000
+"Lattakia, Syria",890000,7/1/2000
+"MOSCOW, Russia",10433869,7/1/2006
+"Bazhou, China",557901,11/1/2000
+"Qian'an, China",632704,11/1/2000
+"Maiduguri, Nigeria",618278,11/26/1991
+"Khulna, Bangladesh",770498,1/22/2001
+"Jiangdu, China",1053023,11/1/2000
+"Jimo, China",1111202,11/1/2000
+"Haining, China",666080,11/1/2000
+"Taichung, China",930175,7/1/1999
+"Bikaner, India",529007,3/1/2001
+"Zhangjiagang, China",957223,11/1/2000
+"Xiangfan, China",871388,11/1/2000
+"CARACAS, Venezuela",1975294,7/1/1998
+"KABUL, Afghanistan",1424400,7/1/1988
+"Tolyatti, Russia",717760,7/1/2006
+"ANKARA, Turkey",3729453,7/1/2003
+"Ufa, Russia",1033276,7/1/2006
+"Sakai, Japan",830966,10/1/2005
+"Yunzhou, China",598387,11/1/2000
+"BAGHDAD, Iraq",3841268,10/17/1987
+"Suwon (Puwan), South Korea",946704,11/1/2000
+"Shulan, China",660065,11/1/2000
+"Dalian, China",3245191,11/1/2000
+"Tangerang, Indonesia",1471396,7/1/2003
+"AMMAN, Jordan",1152540,31/12/2006
+"Harbin (Haerbin), China",3481504,11/1/2000
+"Jingzhou, China",1177150,11/1/2000
+"Tampico, Mexico",644494,7/1/2006
+"ALGIERS, Algeria",1569897,6/25/1998
+"SANTO DOMINGO, Dominican Republic",2677056,7/1/2001
+"Pakanbaru, Indonesia",672480,7/1/2003
+"Veracruz, Mexico",637345,7/1/2006
+"Malang, Indonesia",770483,7/1/2003
+"Irkutsk, Russia",576973,7/1/2006
+"Xingyi, China",719605,11/1/2000
+"Gaozhou, China",1219132,11/1/2000
+"JAKARTA, Indonesia",8640184,7/1/2003
+"LUANDA, Angola",1822407,7/1/1993
+"Nehe, China",672295,11/1/2000
+"Volgograd, Russia",1023299,7/1/2006
+"Dengfeng, China",609085,11/1/2000
+"Changle, China",689815,11/1/2000
+"Natal, Brazil",789896,7/1/2005
+"Kumasi, Ghana",1170270,3/26/2000
+"G�teborg, Sweden",883764,7/1/2006
+"TEGUCIGALPA, Honduras",858437,7/1/2003
+"Guigang, China",1413128,11/1/2000
+"Melbourne, Australia",3635508,6/30/2005
+"Zhongxiang, China",1021998,11/1/2000
+"Huixian, China",776326,11/1/2000
+"Kozhikode, India",880168,3/1/2001
+"Nakuru, Kenya",1571162,7/1/2006
+"M�laga, Spain",560631,1/1/2006
+"Chenzhou, China",655014,11/1/2000
+"Danzhou, China",835465,11/1/2000
+"Changzhi, China",648981,11/1/2000
+"Curitiba, Brazil",1788559,7/1/2005
+"Kerman, Iran",529748,7/1/2003
+"NIAMEY, Niger",707951,10/20/2001
+"Manaus, Brazil",1688524,7/1/2005
+"La Matanza, Argentina",1120088,10/15/1991
+"RABAT, Morocco",673000,7/1/2003
+"Kaifeng, China",796171,11/1/2000
+"Anyang, China",768992,11/1/2000
+"Yushu, China",1155670,11/1/2000
+"Tyumen, Russia",574592,7/1/2006
+"Shengzhou, China",671221,11/1/2000
+"Guiping, China",1359035,11/1/2000
+"Atlanta (GA), United States",470688,7/1/2005
+"Liuyang, China",1307572,11/1/2000
+"TUNIS, Tunisia",702330,7/1/1998
+"Guangyuan, China",905057,11/1/2000
+"Okayama, Japan",674746,10/1/2005
+"Rajkot, India",1002160,3/1/2001
+"KYIV (KIEV), Ukraine",2625094,1/1/2005
+"Maracaibo, Venezuela",1706547,7/1/1998
+"Zaria, Nigeria",612257,11/26/1991
+"BISHKEK, Kyrgyzstan",802600,7/1/2006
+"Shangzhou, China",530883,11/1/2000
+"Beipiao, China",573836,11/1/2000
+"Torino, Italy",900588,7/1/2006
+"Essen, Germany",599515,7/1/1999
+"Qu�bec, Canada",723263,7/1/2006
+"Tongliao, China",793913,11/1/2000
+"Daejeon (Taejon), South Korea",1476736,7/1/2006
+"Shizuoka, Japan",700886,10/1/2005
+"Leling, China",615833,11/1/2000
+"Baoshan, China",846865,11/1/2000
+"Mopti, Mali",1478505,4/1/1998
+"Goyang, South Korea",763971,11/1/2000
+"Callao, Peru",567042,7/18/2005
+"Fengcheng (Liaoning), China",560384,11/1/2000
+"Bozhou, China",1351939,11/1/2000
+"Sapporo, Japan",1880863,10/1/2005
+"Leping, China",729639,11/1/2000
+"Mexicali, Mexico",668736,7/1/2006
+"Winnipeg, Canada",706749,7/1/2006
+"Navi Mumbai (New Bombay), India",703947,3/1/2001
+"ROME, Italy",2626640,7/1/2006
+"Gaziantep, Turkey",926458,7/1/2003
+"Dnipropetrovsk, Ukraine",1046365,1/1/2005
+"Meishan, China",799309,11/1/2000
+"Beining, China",527217,11/1/2000
+"Dujiangyan, China",621980,11/1/2000
+"Kisumu, Kenya",600789,7/1/2006
+"Jiangyan, China",861321,11/1/2000
+"C�rdoba, Argentina",1208554,10/15/1991
+"Lianyuan, China",996893,11/1/2000
+"Medan, Indonesia",1983659,7/1/2003
+"Jilin, China",1953134,11/1/2000
+"Denver (CO), United States",557917,7/1/2005
+"Tongcheng, China",660772,11/1/2000
+"Xuzhou, China",1679626,11/1/2000
+"Dongguan, China",6445777,11/1/2000
+"Yantai, China",1724404,11/1/2000
+"Liuan, China",1559037,11/1/2000
+"Montr�al, Canada",3666280,7/1/2006
+"Quetta, Pakistan",565137,3/2/1998
+"Shaoyang, China",607868,11/1/2000
+"Hanchuan, China",1057396,11/1/2000
+"Jurong, China",594316,11/1/2000
+"Faridabad, India",1054981,3/1/2001
+"Yichun (Jiangxi), China",920357,11/1/2000
+"Makasar (Ujung Pandang), Indonesia",1151245,7/1/2003
+"Shubra-El-Khema, Egypt",870776,11/19/1996
+"Shouguang, China",1081991,11/1/2000
+"Feicheng, China",948602,11/1/2000
+"New York (NY), United States",8143197,7/1/2005
+"Casablanca (Dar-el-Beida), Morocco",3389000,7/1/2003
+"Krak�w, Poland",756757,7/1/2006
+"Toronto, Canada",5406324,7/1/2006
+"Gwalior, India",865800,3/1/2001
+"JERUSALEM, Israel",726638,7/1/2006
+"Preston, United Kingdom",264601,4/29/2001
+"Niigata, Japan",785134,10/1/2005
+"Konya, Turkey",810957,7/1/2003
+"Puebla de Zaragoza, Mexico",1887827,7/1/2006
+"Jiujiang, China",551329,11/1/2000
+"Wafangdian, China",956063,11/1/2000
+"Zaoyang, China",1054374,11/1/2000
+"Torre�n, Mexico",883021,7/1/2006
+"Wugang (Hunan), China",694847,11/1/2000
+"Anshan, China",1556285,11/1/2000
+"Qidong, China",1057073,11/1/2000
+"Zhaotong, China",727959,11/1/2000
+"Oklahoma City (OK), United States",531324,7/1/2005
+"T�touan, Morocco",652000,7/1/2003
+"Coimbatore, India",1446034,3/1/2001
+"Xinji, China",623219,11/1/2000
+"Guang'an, China",1093103,11/1/2000
+"Liaoyang, China",728492,11/1/2000
+"Quer�taro, Mexico",695149,7/1/2006
+"Ulyanovsk, Russia",635526,7/1/2006
+"Chaohu, China",778864,11/1/2000
+"Edmonton, Canada",1050046,7/1/2006
+"Beihai, China",558635,11/1/2000
+"Yuanjiang, China",700236,11/1/2000
+"Bremen, Germany",540330,7/1/1999
+"Asansol, India",1090171,3/1/2001
+"Sao Paulo, Brazil",11016703,7/1/2005
+"Mangalore, India",538560,3/1/2001
+"ACCRA, Ghana",1658937,3/26/2000
+"Jabalpur, India",1117200,3/1/2001
+"Salvador, Brazil",2714018,7/1/2005
+"Bhubaneswar, India",657477,3/1/2001
+"Suzhou (Anhui), China",1601181,11/1/2000
+"Calgary, Canada",1107242,7/1/2006
+"Xinghua, China",1441659,11/1/2000
+"Jinjiang, China",1479259,11/1/2000
+"BAMAKO, Mali",1016296,4/1/1998
+"Xinyu, China",778391,11/1/2000
+"Cuttack, India",587637,3/1/2001
+"Cuernavaca, Mexico",725033,7/1/2006
+"BUENOS AIRES, Argentina",11298030,10/15/1991
+"Trujillo, Peru",644547,7/18/2005
+"Wuhu, China",697197,11/1/2000
+"Fengcheng (Jiangxi), China",1216412,11/1/2000
+"Langzhong, China",787809,11/1/2000
+"Ju�rez, Mexico",1333234,7/1/2006
+"Gaoyou, China",797752,11/1/2000
+"Brisbane, Australia",1790921,6/30/2005
+"Ahmedabad, India",4519278,3/1/2001
+"Dezhou, China",552445,11/1/2000
+"Hangzhou (Hangchow) , China",2451319,11/1/2000
+"Xiaogan, China",883123,11/1/2000
+"Monterrey, Mexico",3473088,7/1/2006
+"Memphis (TN), United States",672277,7/1/2005
+"Hejian, China",757581,11/1/2000
+"Huaian, China",1200679,11/1/2000
+"Meihekou, China",617674,11/1/2000
+"Wenling, China",1162783,11/1/2000
+"Liverpool, United Kingdom",816216,4/29/2001
+"Kaohsiung, China",1468586,7/1/1999
+"LISBON, Portugal",514773,7/1/2006
+"RIGA, Latvia",725032,7/1/2006
+"Nan'an, China",1385276,11/1/2000
+"Jining (Shandong), China",1050522,11/1/2000
+"Yichang, China",712738,11/1/2000
+"Samut Prakan, Thailand",737472,7/1/2006
+"Lianjiang, China",1205764,11/1/2000
+"Wuhan, China",8312700,11/1/2000
+"Miami (FL), United States",386417,7/1/2005
+"Lahore, Pakistan",5143495,3/2/1998
+"Jiyuan, China",626478,11/1/2000
+"Jiangjin, China",1322890,11/1/2000
+"CAIRO, Egypt",6758581,11/11/2006
+"DUSHANBE, Tajikistan",528600,7/1/1993
+"Zhaodong, China",832657,11/1/2000
+"Kemerovo, Russia",519984,7/1/2006
+"Zoucheng, China",1101003,11/1/2000
+"Xianyang, China",953860,11/1/2000
+"Vadodara, India",1492398,3/1/2001
+"Saint Petersburg (Leningrad), Russia",4575902,7/1/2006
+"DAMASCUS, Syria",1675000,7/1/2000
+"Barcelona, Spain",1605602,1/1/2006
+"Nanhai, China",2133741,11/1/2000
+"Zhenjiang, China",695663,11/1/2000
+"Benin City, Nigeria",762719,11/26/1991
+"Changshu, China",1239637,11/1/2000
+"Ghaziabad, India",968521,3/1/2001
+"Qiongshan, China",678149,11/1/2000
+"PRAGUE, Czech Republic",1176116,7/1/2005
+"Yuncheng, China",604381,11/1/2000
+"Wuxi, China",1425766,11/1/2000
+"Suizhou, China",1598752,11/1/2000
+"Solapur, India",873037,3/1/2001
+"Santiago de los Caballeros, Dominican Republic",836614,7/1/2001
+"Fuzhou (Fujian), China",2124435,11/1/2000
+"Srinagar, India",971357,3/1/2001
+"Zhengzhou, China",2589387,11/1/2000
+"H� Noi (HANOI), Viet Nam",1073760,7/1/1992
+"Ezhou, China",1023285,11/1/2000
+"Morelia, Mexico",654303,7/1/2006
+"Guixi, China",535517,11/1/2000
+"Gwangju (Kwangchu), South Korea",1443226,7/1/2006
+"Fukuoka, Japan",1401279,10/1/2005
+"Dhanbad, India",1064357,3/1/2001
+"Jiangyin, China",1315472,11/1/2000
+"Fuzhou (Jiangxi), China",1007391,11/1/2000
+"Thane, India",1261517,3/1/2001
+"Jianyang (Sichuan), China",1412523,11/1/2000
+"Yanshi, China",816026,11/1/2000
+"San Antonio (TX), United States",1256509,7/1/2005
+"Warangal, India",577190,3/1/2001
+"Marrakech, Morocco",1068000,7/1/2003
+"Cenxi, China",731623,11/1/2000
+"Zigong, China",1051384,11/1/2000
+"Bulawayo, Zimbabwe",676650,8/17/2002
+"Qingzhou, China",894468,11/1/2000
+"Valencia, Spain",805304,1/1/2006
+"Cotonou, Benin",650660,7/1/2000
+"Adana, Turkey",1187098,7/1/2003
+"TOKYO, Japan",12576601,10/1/2005
+"El Paso (TX), United States",598590,7/1/2005
+"NAIROBI, Kenya",2948109,7/1/2006
+"Bengbu, China",809399,11/1/2000
+"Chenghai, China",860003,11/1/2000
+"Sydney, Australia",4255954,6/30/2005
+"Rasht, Iran",519481,7/1/2003
+"Daye, China",873859,11/1/2000
+"Kano, Nigeria",2166554,11/26/1991
+"K�ln, Germany",962507,7/1/1999
+"Surabaya, Indonesia",2689728,7/1/2003
+"Qixia, China",651357,11/1/2000
+"Jiaxing, China",881923,11/1/2000
+"Linghai, China",647310,11/1/2000
+"Jiutai, China",799729,11/1/2000
+"Xinmi, China",779014,11/1/2000
+"Tampa (FL), United States",325989,7/1/2005
+"WASHINGTON (DC), United States",550521,7/1/2005
+"Tianchang, China",590745,11/1/2000
+"Nanning, China",1766701,11/1/2000
+"Yuyao, China",852719,11/1/2000
+"Weifang, China",1380300,11/1/2000
+"Huangshi (Hubei), China",653722,11/1/2000
+"Fort Worth (TX), United States",624067,7/1/2005
+"Al-Rakka, Syria",708000,7/1/2000
+"Lingyuan, China",620121,11/1/2000
+"AMSTERDAM, Netherlands",1021254,1/1/2006
+"Xinxiang, China",775941,11/1/2000
+"Bristol, United Kingdom",551066,4/29/2001
+"Detroit (MI), United States",886671,7/1/2005
+"Istanbul, Turkey",9555719,7/1/2003
+"Nashik, India",1152048,3/1/2001
+"Mira-Bhayandar, India",520301,3/1/2001
+"Zaporizhya, Ukraine",798034,1/1/2005
+"Jaboatao dos Guarapes, Brazil",651355,7/1/2005
+"Gujranwala, Pakistan",1132509,3/2/1998
+"Jammu, India",607642,3/1/2001
+"Dali, China",521169,11/1/2000
+"Fuqing, China",1174540,11/1/2000
+"Fuyang (Zhejiang), China",1719057,11/1/2000
+"Linhai, China",948618,11/1/2000
+"Allahabad, India",1049579,3/1/2001
+"Sao Lu�s, Brazil",998385,7/1/2005
+"Fortaleza, Brazil",2416920,7/1/2005
+"Yangzhou, China",711993,11/1/2000
+"Milan (Milano), Italy",1306086,7/1/2006
+"Kunshan, China",750074,11/1/2000
+"Nova Igua�u, Brazil",844583,7/1/2005
+"Bangalore, India",5686844,3/1/2001
+"Mekn�s, Morocco",680000,7/1/2003
+"Ruijin, China",535499,11/1/2000
+"GUATEMALA CITY, Guatemala",1022001,7/1/2001
+"Cebu, Philippines",718821,10/1/2000
+"Yizheng, China",610356,11/1/2000
+"Weihai, China",609219,11/1/2000
+"Chongqing, China",9691901,11/1/2000
+"Lianyungang, China",687242,11/1/2000
+"Vijayawada, India",1011152,3/1/2001
+"Yinchuan, China",807487,11/1/2000
+"Shunde, China",1694152,11/1/2000
+"Binzhou, China",600883,11/1/2000
+"Medell�n, Colombia",2238626,7/1/2006
+"Koulikoro, Mali",1570507,4/1/1998
+"Guwahati, India",814575,3/1/2001
+"Foshan, China",768656,11/1/2000
+"Makkah, Saudi Arabia",1294168,9/15/2004
+"Z�rich, Switzerland",1101710,7/1/2006
+"Sao Jos� dos Campos, Brazil",610965,7/1/2005
+"Semarang, Indonesia",1396059,7/1/2003
+"Shiraz, Iran",1197847,7/1/2003
+"San Jose (CA), United States",912332,7/1/2005
+"Yongzhou, China",976539,11/1/2000
+"Dafeng, China",756766,11/1/2000
+"Recife, Brazil",1515052,7/1/2005
+"Shangzhi, China",582764,11/1/2000
+"Xishan, China",1181073,11/1/2000
+"Liaocheng, China",950319,11/1/2000
+"Panzhihua, China",690739,11/1/2000
+"Renqiu, China",768900,11/1/2000
+"Zhangqiu, China",977324,11/1/2000
+"Huzhou, China",1145414,11/1/2000
+"Samara (Samarskaya oblast), Russia",1141234,7/1/2006
+"Yibin, China",809099,11/1/2000
+"Mor�n, Argentina",643553,10/15/1991
+"RIYADH, Saudi Arabia",4087152,9/15/2004
+"Houston (TX), United States",2016582,7/1/2005
+"Longyan, China",543731,11/1/2000
+"Orumiyeh, Iran",601478,7/1/2003
+"Khartoum North, Sudan",700887,4/15/1993
+"Hyderabad, Pakistan",1166894,3/2/1998
+"PHNOM PENH, Cambodia",1234444,11/1/2000
+"Rugao, China",1362533,11/1/2000
+"Quanzhou, China",1192286,11/1/2000
+"Gongzhuling, China",1041735,11/1/2000
+"Huizhou, China",591686,11/1/2000
+"Taian, China",1538211,11/1/2000
+"Shihezi, China",590115,11/1/2000
+"Zibo, China",2817479,11/1/2000
+"NOUAKCHOTT, Mauritania",558195,11/1/2000
+"HELSINKI, Finland",562713,7/1/2006
+"Guilin, China",804571,11/1/2000
+"STOCKHOLM, Sweden",1904025,7/1/2006
+"Aurangabad, India",891841,3/1/2001
+"Xianning, China",567598,11/1/2000
+"Mendoza, Argentina",773113,10/15/1991
+"Omsk, Russia",1136799,7/1/2006
+"Taipei, China",2640322,7/1/1999
+"Miluo, China",658867,11/1/2000
+"Le�n (de los Aldama), Mexico",1284692,7/1/2006
+"Chon Buri, Thailand",565687,7/1/2006
+"Yangchun, China",840581,11/1/2000
+"Xinyang, China",1255750,11/1/2000
+"C�cuta, Colombia",593952,7/1/2006
+"Mianyang, China",1162962,11/1/2000
+"Oran (Wahran), Algeria",705335,6/25/1998
+"Lichuan, China",786984,11/1/2000
+"Novokuznetsk, Russia",561647,7/1/2006
+"MANILA, Philippines",1581082,10/1/2000
+"Los Angeles (CA), United States",3844829,7/1/2005
+"Qufu, China",625313,11/1/2000
+"Laixi, China",728796,11/1/2000
+"Huazhou, China",1007796,11/1/2000
+"La Plata, Argentina",642979,10/15/1991
+"Jamshedpur, India",1101804,3/1/2001
+"Kawasaki, Japan",1327011,10/1/2005
+"DAKAR, Senegal",1976533,7/1/1999
+"Linqing, China",694247,11/1/2000
+"Shenzhou, China",568558,11/1/2000
+"Jinzhou (Hebei), China",520942,11/1/2000
+"Palermo, Italy",668686,7/1/2006
+"Peshawar, Pakistan",982816,3/2/1998
+"Xuancheng, China",822707,11/1/2000
+"Yiyang, China",1228881,11/1/2000
+"ASUNCION, Paraguay",1620483,8/28/2002
+"Katowice, Poland",315996,7/1/2006
+"Honghu, China",877775,11/1/2000
+"Zaragoza, Spain",649181,1/1/2006
+"Tiruchchirappalli, India",847131,3/1/2001
+"ADDIS ABABA, Ethiopia",2646000,7/1/2002
+"Bijie, China",1128230,11/1/2000
+"Anqing, China",582751,11/1/2000
+"Rosario, Argentina",1118905,10/15/1991
+"Lucknow, India",2266933,3/1/2001
+"Campinas, Brazil",1059420,7/1/2005
+"Hiroshima, Japan",1154391,10/1/2005
+"Kagoshima, Japan",604367,10/1/2005
+"Saitama, Japan",1176314,10/1/2005
+"Dongtai, China",1164653,11/1/2000
+"KUALA LUMPUR, Malaysia",1145342,8/14/1991
+"Aligarh, India",667732,3/1/2001
+"Mingguang, China",569585,11/1/2000
+"Chelyabinsk, Russia",1092231,7/1/2006
+"Nizhny Novgorod, Russia",1289112,7/1/2006
+"Ilorin, Nigeria",532089,11/26/1991
+"Hermosillo, Mexico",661057,7/1/2006
+"Belo Horizonte, Brazil",2399920,7/1/2005
+"Madurai, India",1194665,3/1/2001
+"Suzhou (Jiangsu), China",1344709,11/1/2000
+"Sao Bernardo do Campo, Brazil",803906,7/1/2005
+"Omdurman, Sudan",1271403,4/15/1993
+"Leshan, China",1120158,11/1/2000
+"Huludao, China",900936,11/1/2000
+"BRASILIA, Brazil",2383784,7/1/2005
+"El-Jadida, Morocco",1102000,7/1/2003
+"Puente Alto, Chile",626310,6/30/2006
+"Douala, Cameroon",1382900,7/1/1998
+"Lanxi, China",607196,11/1/2000
+"Leiyang, China",1180235,11/1/2000
+"Xinyi (Jiangsu), China",962656,11/1/2000
+"Wuchang, China",888782,11/1/2000
+"Zhuhai, China",833908,11/1/2000
+"Bandar Lampung, Indonesia",789755,7/1/2003
+"Macheng, China",1129047,11/1/2000
+"Philadelphia (PA), United States",1463281,7/1/2005
+"Panjin, China",602541,11/1/2000
+"Xingping, China",551523,11/1/2000
+"Hamamatsu, Japan",804032,10/1/2005
+"The Hague, Netherlands",621512,1/1/2006
+"Liling, China",934396,11/1/2000
+"Cali, Colombia",2144953,7/1/2006
+"ISLAMABAD, Pakistan",529180,3/2/1998
+"Wuxian, China",1128429,11/1/2000
+"Kharkiv, Ukraine",1445173,1/1/2005
+"Duisburg, Germany",519793,7/1/1999
+"Kumamoto, Japan",669603,10/1/2005
+"Xiangtan, China",707783,11/1/2000
+"Xingtai, China",536282,11/1/2000
+"Aguascalientes, Mexico",718643,7/1/2006
+"Sal�, Morocco",880000,7/1/2003
+"Nanchong, China",1771920,11/1/2000
+"Changge, China",646306,11/1/2000
+"Tongzhou, China",1371498,11/1/2000
+"Hamilton, Canada",716230,7/1/2006
+"Guangshui, China",885936,11/1/2000
+"Krasnodar, Russia",779320,7/1/2006
+"Reynosa, Mexico",532192,7/1/2006
+"Leizhou, China",1268298,11/1/2000
+"Weinan, China",888866,11/1/2000
+"Dengzhou, China",1290656,11/1/2000
+"Bareilly, India",729800,3/1/2001
+"Uberl�ndia, Brazil",600368,7/1/2005
+"Sao Gon�alo, Brazil",973372,7/1/2005
+"LIMA, Peru",5681941,7/18/2005
+"Maoming, China",644301,11/1/2000
+"Dingzhou, China",1107903,11/1/2000
+"Renhuai, China",520759,11/1/2000
+"Xinyi (Guangdong), China",907978,11/1/2000
+"Auckland, New Zealand",1272800,7/1/2006
+"Genova, Italy",618001,7/1/2006
+"Xi'an (Sian) , China",4481508,11/1/2000
+"Durg-Bhilai Nagar, India",923559,3/1/2001
+"Yueyang, China",912993,11/1/2000
+"Chandigarh, India",808796,3/1/2001
+"Zunyi, China",691694,11/1/2000
+"Xichang, China",615212,11/1/2000
+"Wroclaw, Poland",635280,7/1/2006
+"Makhachkala, Russia",552170,7/1/2006
+"PYONGYANG, North Korea",2741260,31/12/1993
+"San Juan, Philippines",117680,10/1/2000
+"Incheon, South Korea",2596317,7/1/2006
+"Macei�, Brazil",922458,7/1/2005
+"Busan (Pusan), South Korea",3554003,7/1/2006
+"Danyang, China",877232,11/1/2000
+"Xiangcheng, China",1052468,11/1/2000
+"Kadhimain, Iraq",521444,10/17/1987
+"Hama, Syria",1525000,7/1/2000
+"Chittagong, Bangladesh",2023489,1/22/2001
+"Bursa, Turkey",1305059,7/1/2003
+"Dubai, United Arab Emirates",1089000,7/1/2002
+"Indianapolis (IN), United States",784118,7/1/2005
+"Vladivostok, Russia",608778,7/1/2006
+"ASTANA, Kazakhstan",550438,1/1/2006
+"Dehradun, India",527859,3/1/2001
+"Teresina, Brazil",801971,7/1/2005
+"Xinzheng, China",609173,11/1/2000
+"Sorocaba, Brazil",578068,7/1/2005
+"Arequipa, Peru",783000,7/18/2005
+"Baoding, China",902496,11/1/2000
+"Qingdao (Tsingtao) , China",2720972,11/1/2000
+"Rio de Janeiro, Brazil",6136652,7/1/2005
+"Panshi, China",530470,11/1/2000
+"Karaj, Iran",1212220,7/1/2003
+"Taishan, China",948716,11/1/2000
+"Tijuana, Mexico",1311774,7/1/2006
+"Gaoan, China",788329,11/1/2000
+"Mudanjiang, China",1014206,11/1/2000
+"Perth, Australia",1478039,6/30/2005
+"KISHINEV, Moldova",780100,7/1/2004
+"Haicheng, China",1181130,11/1/2000
+"Guayaquil, Ecuador",2090039,7/1/2003
+"Hachioji, Japan",560012,10/1/2005
+"Zhanjiang, China",1350665,11/1/2000
+"Bhilai Nagar, India",553837,3/1/2001
+"Maanshan, China",567576,11/1/2000
+"Haora (Howrah), India",1008704,3/1/2001
+"Lufeng, China",1164767,11/1/2000
+"Giza, Egypt",2221817,11/19/1996
+"Delhi, India",12791458,3/1/2001
+"CAPE TOWN, South Africa",987007,10/10/1996
+"Nantong, China",771386,11/1/2000
+"Donetsk (Donestskaya oblast), Ukraine",1008002,1/1/2005
+"Mysore, India",785800,3/1/2001
+"Rushan, China",580326,11/1/2000
+"Tel Aviv-Yafo, Israel",381650,7/1/2006
+"West Midlands, United Kingdom",2284093,4/29/2001
+"Ranchi, India",862850,3/1/2001
+"Shantou, China",1270112,11/1/2000
+"Shanghai, China",14348535,11/1/2000
+"Seongnam, South Korea",914590,11/1/2000
+"Safi, Morocco",906000,7/1/2003
+"Moradabad, India",641240,3/1/2001
+"Samarinda, Indonesia",563570,7/1/2003
+"Milwaukee (WI), United States",578887,7/1/2005
+"Enshi, China",755725,11/1/2000
+"Rongcheng, China",732147,11/1/2000
+"Gaizhou, China",883811,11/1/2000
+"Anlu, China",611990,11/1/2000
+"LILONGWE, Malawi",669114,7/1/2005
+"OUAGADOUGOU, Burkina Faso",1181702,12/9/2006
+"Shiyan, China",589824,11/1/2000
+"Ruzhou, China",923245,11/1/2000
+"Austin (TX), United States",690252,7/1/2005
+"TRIPOLI, Libya",1500000,7/1/1990
+"Seattle (WA), United States",573911,7/1/2005
+"Ahwaz, Iran",949054,7/1/2003
+"Karachi, Pakistan",9339023,3/2/1998
+"K�nitra, Morocco",598000,7/1/2003
+"Al-Madinah, Saudi Arabia",918889,9/15/2004
+"Palembang, Indonesia",1290599,7/1/2003
+"Dongyang, China",753094,11/1/2000
+"N'DJAMENA, Chad",530965,4/8/1993
+"Sheffield, United Kingdom",640720,4/29/2001
+"Pune, India",3755525,3/1/2001
+"Chicago (IL), United States",2842518,7/1/2005
+"Louisville (KY), United States",556429,7/1/2005
+"Xinmin, China",653719,11/1/2000
+"Pimpri Chinchwad, India",1006417,3/1/2001
+"Acapulco (de Ju�rez), Mexico",638084,7/1/2006
+"OSLO, Norway",543514,7/1/2006
+"Gaomi, China",842403,11/1/2000
+"S�gou, Mali",1675357,4/1/1998
+"Zhongshan, China",2363322,11/1/2000
+"Tiruppur, India",542787,3/1/2001
+"Duque de Caxias, Brazil",855010,7/1/2005
+"Ulsan, South Korea",1074516,7/1/2006
+"BAKU, Azerbaijan",1847500,7/1/2004
+"Ankang, China",843426,11/1/2000
+"Fuding, China",521070,11/1/2000
+"Manchester, United Kingdom",2244931,4/29/2001
+"Pingdingshan, China",900903,11/1/2000
+"MOGADISHU, Somalia",1212000,7/1/2001
+"Blantyre City, Malawi",711233,7/1/2005
+"Saltillo, Mexico",701570,7/1/2006
+"Shijiazhuang, China",1969975,11/1/2000
+"Fuyang (Anhui), China",628633,11/1/2000
+"Khabarovsk, Russia",577737,7/1/2006
+"San Francisco (CA), United States",739426,7/1/2005
+"Hefei, China",1659075,11/1/2000
+"Anqiu, China",1096782,11/1/2000
+"Daqing, China",1380051,11/1/2000
+"Luzhou, China",1252884,11/1/2000
+"Yancheng, China",683663,11/1/2000
+"Toluca (de Lerdo), Mexico",1069710,7/1/2006
+"Fuan, China",554057,11/1/2000
+"Zhucheng, China",1053695,11/1/2000
+"Kochi, India",1355406,3/1/2001
+"Luoyang, China",1491680,11/1/2000
+"Cancun, Mexico",545138,7/1/2006
+"Hechuan, China",1420520,11/1/2000
+"Xinhui, China",932425,11/1/2000
+"Haiyang, China",654594,11/1/2000
+"Liyang, China",740871,11/1/2000
+"COLOMBO, Sri Lanka",615000,7/1/1990
+"Yixing, China",1164275,11/1/2000
+"Charlotte (NC), United States",610949,7/1/2005
+"Changde, China",1346739,11/1/2000
+"Gaoyao, China",625125,11/1/2000
+"Huiyang, China",862822,11/1/2000
+"Jaipur, India",2324319,3/1/2001
+"Yongchuan, China",984730,11/1/2000
+"KATHMANDU, Nepal",671846,6/22/2001
+"Jamnagar, India",558462,3/1/2001
+"Shaoguan, China",535979,11/1/2000
+"BOGOTA, Colombia",6945216,7/1/2006
+"Yingde, China",810446,11/1/2000
+"Suihua, China",800207,11/1/2000
+"Wujin, China",1420204,11/1/2000
+"Taixing, China",1235454,11/1/2000
+"Fengnan, China",550872,11/1/2000
+"Agra, India",1321410,3/1/2001
+"Huaibei, China",741195,11/1/2000
+"Novosibirsk, Russia",1394469,7/1/2006
+"Salem, India",748513,3/1/2001
+"Datong, China",1526744,11/1/2000
+"Tongxiang, China",713399,11/1/2000
+"Wuwei, China",946506,11/1/2000
+"Ibadan, Nigeria",1835300,11/26/1991
+"Nanchuan, China",631853,11/1/2000
+"Yizhou, China",549434,11/1/2000
+"Port Harcourt, Nigeria",703421,11/26/1991
+"Barquisimeto, Venezuela",810809,7/1/1998
+"Jodhpur, India",856034,3/1/2001
+"Zhangzhou, China",567884,11/1/2000
+"ZAGREB, Croatia",779145,7/1/2001
+"YEREVAN, Armenia",1104398,7/1/2006
+"Almaty, Kazakhstan",1247896,1/1/2006
+"Jalandhar, India",709255,3/1/2001
+"Lagos, Nigeria",5195247,11/26/1991
+"TEHRAN, Iran",7188936,7/1/2003
+"Hezhou, China",850023,11/1/2000
+"Pingxiang (Jiangxi), China",783445,11/1/2000
+"Aleppo, Syria",3818000,7/1/2000
+"Taizhou (Jiangsu), China",607660,11/1/2000
+"Linfen, China",724403,11/1/2000
+"DUBLIN, Ireland",1004614,4/28/2002
+"Rotterdam, Netherlands",991578,1/1/2006
+"Guadalajara, Mexico",3833866,7/1/2006
+"Multan, Pakistan",1197384,3/2/1998
+"Kayseri, Turkey",566162,7/1/2003
+"Patna, India",1707429,3/1/2001
+"Esfahan, Iran",1523006,7/1/2003
+"HARARE, Zimbabwe",1435784,8/17/2002
+"Tengzhou, China",1548817,11/1/2000
+"Puning, China",1856402,11/1/2000
+"Liuzhou, China",1220392,11/1/2000
+"B�ni-Mellal, Morocco",998000,7/1/2003
+"Poznan, Poland",566546,7/1/2006
+"Izmir, Turkey",2299584,7/1/2003
+"Mombasa, Kenya",862092,7/1/2006
+"Zamboanga, Philippines",601794,10/1/2000
+"Ningbo, China",1567499,11/1/2000
+"Fuxin, China",627855,11/1/2000
+"Guanghan, China",577298,11/1/2000
+"Kunming, China",3035406,11/1/2000
+"BUCHAREST, Romania",1931236,7/1/2006
+"Jeddah (Jiddah), Saudi Arabia",2801481,9/15/2004
+"Kyoto, Japan",1474811,10/1/2005
+"Bel�m, Brazil",1428368,7/1/2005
+"KHARTOUM, Sudan",2919773,4/15/1993
+"L�dz, Poland",764168,7/1/2006
+"Qom, Iran",986922,7/1/2003
+"Jintan, China",533350,11/1/2000
+"Akesu, China",561822,11/1/2000
+"Hubli-Dharwad, India",786018,3/1/2001
+"Chongzhou, China",650698,11/1/2000
+"Kobe, Japan",1525393,10/1/2005
+"Diyarbakir, Turkey",595951,7/1/2003
+"Lanzhou, China",2087759,11/1/2000
+"TBILISI, Georgia",1059600,7/1/2003
+"Tyneside, United Kingdom",879996,4/29/2001
+"Meerut, India",1167399,3/1/2001
+"MANAGUA, Nicaragua",908892,6/3/2005
+"Shishou, China",602649,11/1/2000
+"Quezon City, Philippines",2173831,10/1/2000
+"SANTIAGO, Chile",5890745,6/30/2006
+"Porto Alegre, Brazil",1440939,7/1/2005
+"ATHENS, Greece",789166,3/18/2001
+"I�el, Turkey",568388,7/1/2003
+"Nanjing (Nanking) , China",3624234,11/1/2000
+"Ekaterinoburg, Russia",1342977,7/1/2006
+"Yiwu, China",912670,11/1/2000
+"Changyi, China",683182,11/1/2000
+"BENGHAZI, Libya",800000,7/1/1990
+"Dehui, China",878349,11/1/2000
+"Jiaozuo, China",747299,11/1/2000
+"Tainan, China",725445,7/1/1999
+"Botou, China",550888,11/1/2000
+"Tianjin (Tientsin), China",7499181,11/1/2000
+"Kota, India",704731,3/1/2001
+"Bhiwandi, India",621390,3/1/2001
+"Zhoushan, China",715685,11/1/2000
+"Qionglai, China",631577,11/1/2000
+"Yuhang, China",817715,11/1/2000
+"Gorakhpur, India",624570,3/1/2001
+"Taizhou (Zhejiang), China",1491963,11/1/2000
+"Batam, Indonesia",547550,7/1/2003
+"Rostov-na-Donu, Russia",1053254,7/1/2006
+"Haiphong, Viet Nam",783133,7/1/1992
+"Raipur, India",699264,3/1/2001
+"Amritsar, India",1011327,3/1/2001
+"Joao Pessoa, Brazil",672081,7/1/2005
+"Lomas de Zamora, Argentina",574330,10/15/1991
+"San Luis Potos�, Mexico",934645,7/1/2006
+"Vancouver, Canada",2236068,7/1/2006
+"Barranquilla, Colombia",1154642,7/1/2006
+"Changning, China",795223,11/1/2000
+"Port Elizabeth, South Africa",775255,10/10/1996
+"Davao, Philippines",1147116,10/1/2000
+"Tangshan, China",1711311,11/1/2000
+"Bandjarmasin, Indonesia",567345,7/1/2003
+"Bucheon (Puchon), South Korea",761389,11/1/2000
+"Baotou, China",1671181,11/1/2000
+"Kalookan (Caloocan), Philippines",1177604,10/1/2000
+"Benxi, China",980069,11/1/2000
+"F�s, Morocco",1185000,7/1/2003
+"MEXICO CITY, Mexico",18204964,7/1/2006
+"VILNIUS, Lithuania",542303,7/1/2006
+"M�nchen, Germany",1194560,7/1/1999
+"ULAANBAATAR, Mongolia",979780,7/1/2006
+"Xingcheng, China",524527,11/1/2000
+"Minneapolis (MN), United States",372811,7/1/2005
+"Wendeng, China",675061,11/1/2000
+"Yongkang, China",557067,11/1/2000
+"Colombo, Brazil",231787,7/1/2005
+"Qiqihaer, China",1540089,11/1/2000
+"Laiyang, China",897681,11/1/2000
+"Dallas (TX), United States",1213825,7/1/2005
+"Antalya, Turkey",670229,7/1/2003
+"Gold Coast-Tweed, Australia",540115,6/30/2005
+"Liupanshui, China",995055,11/1/2000
+"SINGAPORE, Singapore",4483900,7/1/2006
+"LUSAKA, Zambia",1057212,7/1/2000
+"Yongcheng, China",1264607,11/1/2000
+"Shangqiu, China",1428983,11/1/2000
+"Jiangmen, China",536317,11/1/2000
+"Thiruvananthapuram, India",889191,3/1/2001
+"Kanpur, India",2690486,3/1/2001
+"Cochabamba, Bolivia",586813,7/1/2006
+"Nagpur, India",2122965,3/1/2001
+"Jinzhou (Liaoning), China",861991,11/1/2000
+"Yaroslave, Russia",603872,7/1/2006
+"Durban, South Africa",669242,10/10/1996
+"Yuzhou, China",1122669,11/1/2000
+"KINGSTON, Jamaica",579137,9/10/2001
+"BERLIN, Germany",3386667,7/1/1999
+"Las Vegas (NV), United States",545147,7/1/2005
+"Longkou, China",671335,11/1/2000
+"Tianshui, China",1146986,11/1/2000
+"Longhai, China",816318,11/1/2000
+"Shenzhen, China",7008831,11/1/2000
+"DHAKA, Bangladesh",5333571,1/22/2001
+"Dandong, China",780414,11/1/2000
+"Frankfurt am Main, Germany",643821,7/1/1999
+"Qianjiang, China",992438,11/1/2000
+"WARSAW, Poland",1700536,7/1/2006
+"Zhangshu, China",527823,11/1/2000
+"Guarulhos, Brazil",1283253,7/1/2005
+"Mosul, Iraq",664221,10/17/1987
+"Nottingham, United Kingdom",666358,4/29/2001
+"Phoenix (AZ), United States",1461575,7/1/2005
+"Chihuahua, Mexico",766513,7/1/2006
+"Dar es Salaam, Tanzania",1360850,8/28/1988
+"Shimkent, Kazakhstan",526140,1/1/2006
+"Cheongju, South Korea",586700,11/1/2000
+"Imbaba, Egypt",523265,11/19/1996
+"Wanyuan, China",536685,11/1/2000
+"West Yorkshire, United Kingdom",1499465,4/29/2001
+"Culiac�n Rosales, Mexico",620768,7/1/2006
+"Baoji, China",600377,11/1/2000
+"Tanger, Morocco",782000,7/1/2003
+"Wuan, China",720196,11/1/2000
+"Jingjiang, China",639665,11/1/2000
+"Pulandian, China",757844,11/1/2000
+"Qinzhou, China",1035504,11/1/2000
+"Chizhou, China",555489,11/1/2000
+"Chaoyang (Guangdong), China",2470812,11/1/2000
+"Goi�nia, Brazil",1220412,7/1/2005

@@ -1,0 +1,56 @@
+
+public class PigTester
+{
+
+ /**
+  * @param args
+  */
+ public static void main(String[] args) 
+ {
+
+  PigLatin pl = new PigLatin();
+  String originalInput = "";
+  String finalOutput = "";
+  
+  //words over length 10 convertWord()
+  System.out.println("Case #");
+  originalInput = "applesause";
+  System.out.println("Org Sentence: " + originalInput);
+  finalOutput = pl.convertWord(originalInput);
+  System.out.println("New Sentence: " + finalOutput);
+  
+  //words over length 10 convertSentence()
+  System.out.println("Case #");
+  originalInput = "applesause applesause";
+  System.out.println("Org Sentence: " + originalInput);
+  finalOutput = pl.convertSentence(originalInput);
+  System.out.println("New Sentence: " + finalOutput);
+  
+  // c doesnt work
+  System.out.println("Case #");
+  originalInput = "conner";
+  System.out.println("Org Sentence: " + originalInput);
+  finalOutput = pl.convertSentence(originalInput);
+  System.out.println("New Sentence: " + finalOutput);
+  
+  //10th word removed
+  System.out.println("Case #");
+  originalInput = "hello, my name is conner. Please help me find these glitches.";
+  System.out.println("Org Sentence: " + originalInput);
+  finalOutput = pl.convertSentence(originalInput);
+  System.out.println("New Sentence: " + finalOutput);
+  
+  //Reaching For Issues
+  System.out.println("Case #");
+  originalInput = "wai\0ter";
+  System.out.println("Org Sentence: " + originalInput);
+  finalOutput = pl.convertSentence(originalInput);
+  System.out.println("New Sentence: " + finalOutput);
+  
+ }
+}
+
+
+
+
+
